@@ -1,16 +1,16 @@
-# Welcome!
+# Bem-vindo(a)!
  
-## I'm Rômulo Ciro!
+## Eu sou Rômulo Ciro
 
  
 
-:computer: I'm FullStack Developer!
+:computer: Desenvolvedor Full Stack
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Sou Brasileiro.
 
-:books: I’m currently learning.
+:books: Sempre se atualizando sobre novas tecnologias.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021: Objetivos: criar novos projetos e encontrar um novo emprego.
 
  
 
@@ -22,6 +22,6 @@
 
 
 
-- Thanks for visiting.
+- Obrigado pela visita.
 
-- Enjoy it!! o/
+- Aproveite!! o /
