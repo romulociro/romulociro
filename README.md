@@ -8,7 +8,7 @@
 
 :house_with_garden: Sou Brasileiro.
 
-:books: Sempre se atualizando sobre novas tecnologias.
+:books: Sempre me atualizando sobre novas tecnologias.
 
 :outbox_tray: 2021: Objetivos: criar novos projetos e encontrar um novo emprego.
 
