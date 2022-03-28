@@ -4,13 +4,11 @@
 
  
 
-:computer: Desenvolvedor Full Stack
+:computer: Desenvolvedor FullStack
 
 :house_with_garden: Sou Brasileiro.
 
 :books: Sempre me atualizando sobre novas tecnologias.
-
-:outbox_tray: 2021: Objetivos: criar novos projetos e encontrar um novo emprego.
 
  
 
