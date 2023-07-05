@@ -4,7 +4,7 @@
 
  
 
-:computer: Desenvolvedor FullStack
+:computer: Desenvolvedor Backend
 
 :house_with_garden: Sou Brasileiro.
 
