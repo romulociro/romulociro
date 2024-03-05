@@ -1,14 +1,14 @@
 # Bem-vindo(a)!
  
-## Me chamo Rômulo Ciro
+## Sou Rômulo Ciro, Desenvolvedor Backend apaixonado por inovação.
 
  
 
-:computer: Desenvolvedor Backend
+:computer: Desenvolvedor Backend/Fullstack
 
-:house_with_garden: Sou Brasileiro.
+:house_with_garden:  Brasileiro, atuando com tecnologia para melhorar continuamente os serviços digitais.
 
-:books: Sempre me atualizando sobre novas tecnologias.
+:books: Comprometido com o aprendizado contínuo e a aplicação de novas tecnologias.
 
  
 
