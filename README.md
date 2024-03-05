@@ -1,10 +1,10 @@
 # Bem-vindo(a)!
  
-## Sou Rômulo Ciro, Desenvolvedor Backend apaixonado por inovação.
+## Sou Rômulo Ciro, Desenvolvedor FullStack apaixonado por inovação.
 
  
 
-:computer: Desenvolvedor Backend/Fullstack
+:computer:  Experiente em Java, Angular e Kotlin, com experiência em construir soluções robustas.
 
 :house_with_garden:  Brasileiro, atuando com tecnologia para melhorar continuamente os serviços digitais.
 
